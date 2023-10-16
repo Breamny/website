@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>guide</title>
+</head>
+<body>
+ <h1>Guide for downloading file</h1>
+    <video width="1920" height="1080" controls>
+        <source src="guide for downloading file.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+
+ </body>
+</html>
